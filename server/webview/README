@@ -1,0 +1,24 @@
+Todo :
+
+Main log view :
+
+Sites :
+-------------------------------------------------------------------------
+Show already confirmed [x]
+Date from [    ] to [    ]
+Sites [      ] (checkboxes vertical for each site )
+Search message [         ]  Search
+------------------------------------------------------------------------
+[Site1] [Errors:14] [Warnings:20]   [Not confirmed errors: 14]
+[Site2] [Errors:14] [Warnings:30]   [Not confirmed errors: 0]
+------------------------------------------------------------------------
+Small font - match everything on one page if possible . Scrollable areas .
+
+
+Button Confirm - changes status to confirmed by Mike on 2013:30 ...
+Do some details view maybe ... display only first 100 chars of message + click opens modal where you can confirm
+make login screen ...
+
+Add : loading gif
+
+
